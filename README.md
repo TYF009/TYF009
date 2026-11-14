@@ -46,7 +46,7 @@
 
 **[Canonical Landscape SaaS](https://github.com/TYF009/canonical-landscape-customer-success)** · 在 Ubuntu 虚拟机上验证设备注册与远程管理流程，记录首次使用遇到的问题，整理支持手册和升级流程。
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-1F222E?style=flat-square&logo=linux&logoColor=FCC624) ![ESP32](https://img.shields.io/badge/ESP32-1F222E?style=flat-square&logo=espressif&logoColor=F85D7F) ![Android](https://img.shields.io/badge/Android-1F222E?style=flat-square&logo=android&logoColor=3DDC84) ![FastAPI](https://img.shields.io/badge/FastAPI-1F222E?style=flat-square&logo=fastapi&logoColor=00C7B7) ![Next.js](https://img.shields.io/badge/Next.js-1F222E?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F222E?style=flat-square&logo=postgresql&logoColor=80BAF6)
 
